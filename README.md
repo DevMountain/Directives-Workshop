@@ -1,5 +1,6 @@
-Directives-Workshop
+##Directives-Workshop
 ===================
+### Introduction
 Angular allows us to create these great things called directives. Directives are essentially small pieces of functionality our app needs that can be bundled up into individual components. 
 
 These components allow us to reuse code within our project, and throughout other projects. Creating your own directives can be odd at first because we will be using a lot of built in Angular functionality to do this. For now consider these things as autoMagical and then once you've created a few go look into how Angular is interpreting the directive.
@@ -46,7 +47,7 @@ These components allow us to reuse code within our project, and throughout other
 	})
 ````
 
-**Note:**
+###Note:
 Most of these attributes within the directive example above are optional. For more information about directives visit the documentation at: https://docs.angularjs.org/guide/directive
 
 
