@@ -1,6 +1,9 @@
 ##Directives-Workshop
 ===================
 ### Introduction
+
+####
+##### Objective
 Angular allows us to create these great things called directives. Directives are essentially small pieces of functionality our app needs that can be bundled up into individual components. 
 
 These components allow us to reuse code within our project, and throughout other projects. Creating your own directives can be odd at first because we will be using a lot of built in Angular functionality to do this. For now consider these things as autoMagical and then once you've created a few go look into how Angular is interpreting the directive.
@@ -174,6 +177,20 @@ Moving right along if you look console.log(Notification) you would see that in e
 
 Because you wrote some super cool directives go back to some of your previous projects and add in your myDirectives.js and don't forget to inject your module as a dependency angular.module('Itunes', ['ngGrid', 'myDirectives']) Then just drop into the Html add in the required attributes and watch your directives work seamlessly.
 
+## Contributions
+
+### Contributions
+
+####
+
+If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
+
 ## Copyright
 
-© DevMountain LLC, 2016. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
+### Copyright
+
+####
+
+© DevMountain LLC, 2015. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
+
+<img src="https://devmounta.in/img/logowhiteblue.png" width="250">
