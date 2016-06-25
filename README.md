@@ -11,7 +11,8 @@ These components allow us to reuse code within our project, and throughout other
 
 
 #The Anatomy of an Angular Directive - a reference.
-````javascript
+
+```javascript
 	var app = angular.module('NAME-OF-APP', []);
 
 	app.directive('nameOfDirective', function() {
@@ -48,7 +49,7 @@ These components allow us to reuse code within our project, and throughout other
 		}
 
 	})
-````
+```
 
 ###Note:
 Most of these attributes within the directive example above are optional. For more information about directives visit the documentation at: https://docs.angularjs.org/guide/directive
