@@ -46,7 +46,7 @@ These components allow us to reuse code within our project, and throughout other
 	})
 ````
 
-###Note:
+**Note:**
 Most of these attributes within the directive example above are optional. For more information about directives visit the documentation at: https://docs.angularjs.org/guide/directive
 
 
